@@ -1,0 +1,20 @@
+# BaraON
+### 전담 파트
+* Place - [Place JSP](https://github.com/Learning-Ant/B_Team/tree/master/src/main/webapp/WEB-INF/views/place)
+    1. Controller : [Place Controller](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/controller/PlaceController.java)
+    2. Commands : [Place Command List](https://github.com/Learning-Ant/B_Team/tree/master/src/main/java/com/koreait/baraON/command/place)
+    3. Dao : [Place Dao](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/dao/PlaceDao.java)
+    4. Dto : [PlaceDto](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/dto/PlaceDto.java), [PlaceListDto](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/dto/PlaceListDto.java), [PlaceCategoryDto](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/dto/PlaceCategoryDto.java), [PlaceOptionDto](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/dto/PlaceOptionDto.java)
+    5. Mapper : [Place Mapper](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/dao/mapper/place.xml)
+* Reservation - [Reservation JSP](https://github.com/Learning-Ant/B_Team/tree/master/src/main/webapp/WEB-INF/views/reservation)
+    1. Controller : [Reservation Controller](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/controller/ReservationController.java)
+    2. Commands : [Reservation Command List](https://github.com/Learning-Ant/B_Team/tree/master/src/main/java/com/koreait/baraON/command/reservation)
+    3. Dao : [Reservation Dao](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/dao/ReservationDao.java)
+    4. Dto : [ReservationDto](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/dto/ReservationDto.java)
+    5. Mapper : [Reservation Mapper](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/dao/mapper/reservation.xml)
+* Review
+    1. Controller : [Review Controller](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/controller/ReviewController.java)
+    2. Commands : [Review Command List](https://github.com/Learning-Ant/B_Team/tree/master/src/main/java/com/koreait/baraON/command/review)
+    3. Dao : [Review Dao](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/dao/ReviewDao.java)
+    4. Dto : [ReviewDto](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/dto/ReviewDto.java), [ReviewListDto](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/dto/ReviewListDto.java)
+    5. Mapper : [Review Mapper](https://github.com/Learning-Ant/B_Team/blob/master/src/main/java/com/koreait/baraON/dao/mapper/review.xml)
